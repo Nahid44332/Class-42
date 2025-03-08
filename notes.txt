@@ -1,0 +1,7 @@
+
+
+
+
+1. prepend
+2. appendChild
+3. insertBefore
